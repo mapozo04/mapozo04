@@ -8,4 +8,6 @@ Very interested also in online privacy, and in open-source projects as a replace
 
 To reach me, you can write to ---> pozomariano@proton.me 
 
-![My Skills](https://skillicons.dev/icons?i=linux,bash,cpp,java,mysql)](https://skillicons.dev)
+
+## My skills:
+![My Skills](https://skillicons.dev/icons?i=linux,bash,cpp,java,mysql)]
