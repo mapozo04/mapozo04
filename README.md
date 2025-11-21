@@ -13,4 +13,4 @@ To reach me, you can write to ---> pozomariano@proton.me
 ![My Skills](https://skillicons.dev/icons?i=linux,bash,cpp,java,mysql)]
 
 ## Tools I frecuently use
-![My Skills](https://skillicons.dev/icons?i=)vscodium,eclipse,raspberrypi,arch]
+![My Skills](https://skillicons.dev/icons?i=vscodium,eclipse,raspberrypi,arch)]
