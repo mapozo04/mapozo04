@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I am a CS student passionate about GNU/LINUX and currently learning about computational mathematics, algorithmics and low-level programming.
+I am a CS student passionate about GNU/LINUX and learning about computational mathematics, algorithmics and low-level programming.
 
 I'm currently working in firefox/browser extensions and in a Software Engineering project which involves methods such as scrum, kanban and so.
 
