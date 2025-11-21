@@ -7,3 +7,5 @@ I'm currently working in firefox/browser extensions and in a Software Engineerin
 Very interested also in online privacy, and in open-source projects as a replacement for nowadays closed source tools
 
 To reach me, you can write to ---> pozomariano@proton.me 
+
+![My Skills](https://skillicons.dev/icons?i=linux,bash,cpp,java,asm,mysql)](https://skillicons.dev)
